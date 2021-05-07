@@ -9,9 +9,9 @@ Aplikacja łączy się i pozwala sterować robotami mobilnymi Pololu3pi.
 - [Technologie](#technologie)
 - [Uruchamianie programu](#uruchamianie-programu)
 - [Korzystanie z aplikacji](#korzystanie-z-aplikacji)
-- [Źródła](#źródła)
-- [Dodatkowe informacje](#Dodatkowe-informacje)
+- [Dodatkowe informacje](#dodatkowe-informacje)
 - [Status projektu](#status-projektu)
+- [Screeny projektu](#screeny-projektu)
 
 ## Informacje ogólne
 Aplikacja łącząca się z robotem mobilnym poprzez socket. Umożliwia sterowanie robotami z którymi jest połączona. Wymiana informacji z robotami następuje w osobnych wątkach.
@@ -58,5 +58,8 @@ Ważną informacją jest to, że bajty odczytywane przez aplikację, czyli te wy
 
 ## Status projektu
 Zakończony
+
+## Screeny projektu
+![MainWindow](https://user-images.githubusercontent.com/82177599/117481311-1a222300-af63-11eb-80d1-6f0f52774c4a.png)
 
 
